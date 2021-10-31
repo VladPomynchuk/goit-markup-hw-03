@@ -408,6 +408,7 @@ body {
   margin-bottom: 0;
 }
 .works-title {
+  padding-top: 20px;
   margin-top: 0;
   margin-bottom: 4px;
   margin-left: 24px;
@@ -432,11 +433,11 @@ body {
   line-height: 1.87;
   letter-spacing: 0.03em;
 }
-.works-item .img-block {
-  margin-bottom: 20px;
-}
-.works-item {
+
+.works-border {
   background: #ffffff;
-  border: 1px solid #eeeeee;
-  box-sizing: border-box;
+  /* border-top: 1px solid #eeeeee; */
+  border-bottom: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+  border-left: 1px solid #eeeeee;
 }
