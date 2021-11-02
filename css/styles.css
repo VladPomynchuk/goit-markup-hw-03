@@ -48,8 +48,8 @@ body {
 
 .logo {
   display: inline-block;
-  padding-top: 24px;
-  padding-bottom: 25px;
+  /* padding-top: 24px;
+  padding-bottom: 25px; */
   margin-right: 93px;
 
   color: var(--accent);
@@ -64,6 +64,7 @@ body {
 
 .navigation {
   display: flex;
+  align-items: center;
 }
 
 .site-nav {
